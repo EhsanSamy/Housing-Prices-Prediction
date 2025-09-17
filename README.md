@@ -49,10 +49,10 @@
 
 | Model              | Test R² | Test RMSE   |
 |--------------------|---------|-------------|
-| Linear Regression  | 0.76    | ~798,765    |
-| Lasso Regression   | 0.76    | ~798,765    |
-| Ridge Regression   | 0.76    | ~798,765    |
-| Decision Tree      | 0.73    | ~848,879    |
+| Linear Regression  | 0.87    | 587613.304    |
+| Lasso Regression   | 0.87    | 587613.312    |
+| Ridge Regression   | 0.87    | 587592.009    |
+| Decision Tree      | 0.90    | 514059.236    |
 
 ---
 
